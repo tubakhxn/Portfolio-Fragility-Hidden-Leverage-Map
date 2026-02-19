@@ -1,6 +1,11 @@
 # 3D Portfolio Fragility & Hidden Leverage Map
+## Creator/Dev
+
+### tubakhxn
+<img width="2992" height="1381" alt="image" src="https://github.com/user-attachments/assets/64529f64-0114-467c-b056-9cfdde20c088" />
 
 ## What is this project about?
+
 
 This project is an advanced risk analytics dashboard for multi-asset portfolios. It enables users to:
 - Construct portfolios with dynamic leverage, volatility targeting, and optional convex payoffs
@@ -27,6 +32,5 @@ The system is built with Python, NumPy, Pandas, Plotly, and Streamlit, and imple
    streamlit run streamlit_app.py
    ```
 
-## Creator/Dev
 
-### tubakhxn
+
